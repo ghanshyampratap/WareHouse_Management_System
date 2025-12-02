@@ -1,5 +1,4 @@
-# 📦 Automated Dispatch System (Low-Budget RFID-Based)
-
+# 📦Low Budget Automated Dispatch System Using RFID & ESP8266
 
 ## 🧩 Project Overview
 This repository contains the design and development of a **low-cost Automated Dispatch System** for warehouse applications.  
