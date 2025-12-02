@@ -12,8 +12,10 @@ The system automates inventory dispatch logging using **RFID (Radio-Frequency Id
 - Operate within a **₹2,000** total budget.  
 - Achieve **≥95% read accuracy** under realistic warehouse conditions.
 
+### 🏗️ Working Principle
+An **RFID Gate** detects each item’s **UID** when crossing a defined boundary.  
+The **ESP8266** processes the event, attaches a timestamp, and uploads data to the cloud database.
 
-## ⚙️ System Architecture
 
 ### 🏗️ Checkpoint Logic
 An **RFID Gate** is formed using the RC522 reader, which detects a tag’s unique ID (UID) as it crosses the boundary.  
