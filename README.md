@@ -17,10 +17,6 @@ An **RFID Gate** detects each item’s **UID** when crossing a defined boundary.
 The **ESP8266** processes the event, attaches a timestamp, and uploads data to the cloud database.
 
 
-### 🏗️ Checkpoint Logic
-An **RFID Gate** is formed using the RC522 reader, which detects a tag’s unique ID (UID) as it crosses the boundary.  
-The ESP8266 processes and uploads data to the cloud for tracking and logging.
-
 #### Logical Flow:
 <img width="1024" height="1536" alt="Automated Dispatch System Flowchart" src="https://github.com/user-attachments/assets/b259b06f-db51-4f33-88b8-600789dd811b" />
 
