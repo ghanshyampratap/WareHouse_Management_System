@@ -92,7 +92,9 @@ The ESP8266 processes and uploads data to the cloud for tracking and logging.
 | **IR / Ultrasonic** | Cannot uniquely identify items, only detect presence |
 | **Wi-Fi RSSI** | Inaccurate due to signal reflection (3–5 m error range) |
 
-<img width="1920" height="990" alt="Screenshot 2025-12-02 015507" src="https://github.com/user-attachments/assets/037d5e5a-9cd3-4301-9b17-bb7e14d36ed3" />
+![WhatsApp Image 2025-12-03 at 12 17 59 AM](https://github.com/user-attachments/assets/30e61b23-b784-48d4-b098-f30194c11a48)
+
+<img width="1024" height="1536" alt="ChatGPT Image Dec 3, 2025, 12_06_10 AM" src="https://github.com/user-attachments/assets/c6295205-1acf-4e0e-a966-12670278e2bc" />
 
 
 ## ⚡ Implementation Notes
